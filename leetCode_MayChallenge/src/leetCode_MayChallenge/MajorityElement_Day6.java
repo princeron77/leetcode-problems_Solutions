@@ -3,6 +3,8 @@
 You may assume that the array is non-empty and the majority element always exist in the array.
 
 * Approach - Using Moore's voting Algo time
+* 1.find candidate key
+* 2.verify candidate at majority element
 * Complexicity - O(n)
 */
 package leetCode_MayChallenge;
